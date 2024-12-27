@@ -87,12 +87,10 @@ and custom struct tags.
 Notes On Go Language Features
 -----------------------------
 
-## Core
 ### Arrays and Slices
 Nice article explaining Go's array and slice types:
 https://go.dev/blog/slices-intro
 
-## Generics
 ### Generic alias types
 Not generally available in Go until v1.24, this will allow the following:
 ```
