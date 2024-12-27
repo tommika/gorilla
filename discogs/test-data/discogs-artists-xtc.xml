@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!-- 
+A small extract from Discogs artists database https://data.discogs.com/ taken
+from discogs_20240701_artists.xml 
+-->
+<artists>
+  <artist>
+    <images>
+      <image type="primary" uri="" uri150="" width="600" height="400"/>
+      <image type="secondary" uri="" uri150="" width="600" height="600"/>
+      <image type="secondary" uri="" uri150="" width="600" height="337"/>
+      <image type="secondary" uri="" uri150="" width="559" height="810"/>
+      <image type="secondary" uri="" uri150="" width="600" height="385"/>
+      <image type="secondary" uri="" uri150="" width="450" height="315"/>
+      <image type="secondary" uri="" uri150="" width="500" height="365"/>
+      <image type="secondary" uri="" uri150="" width="600" height="401"/>
+    </images>
+    <id>15118</id>
+    <name>XTC</name>
+    <profile>Formed in Swindon UK from the ashes of the band [b]The Helium Kidz[/b] and were active from 1975 to 2006.&#xD;
+They were a musically adventurous group who first made an impact as a post-punk new wave band but refused to be pigeonholed by recording dub, folk-rock, psychedelia and pure pop as the mood took them.&#xD;
+The classic line-up was Andy Partridge (guitar &amp; vocals), Colin Moulding (bass &amp; vocals), Dave Gregory (guitar &amp; keyboards, left in 1999) and Terry Chambers (drums, left in 1982).&#xD;
+Barry Andrews was the original keyboard player but he left in 1979 to be replaced by Dave Gregory. The band ceased performing live in 1982, prompting Terry to leave and, rather than replacing him, they then used various session drummers for their remaining studio albums.&#xD;
+Their live legacy continues through Terry's band [a12676994].</profile>
+    <data_quality>Needs Vote</data_quality>
+    <urls>
+      <url>http://chalkhills.org/</url>
+      <url>http://www.ape.uk.net/</url>
+      <url>http://en.wikipedia.org/wiki/XTC</url>
+      <url>http://www.10ft.it/album_boot.html</url>
+    </urls>
+    <namevariations>
+      <name>'XTC'</name>
+      <name>X T C</name>
+      <name>X.T.C.</name>
+    </namevariations>
+    <aliases>
+      <name id="163843">The Three Wise Men</name>
+      <name id="257163">The Dukes Of Stratosphear</name>
+      <name id="684885">The Beech Avenue Boys</name>
+      <name id="973257">Terry &amp; The Lovemen</name>
+      <name id="1312970">Johnny Japes And His Jesticles</name>
+      <name id="2932706">Star Park</name>
+    </aliases>
+    <members>
+      <id>64092</id>
+      <name id="64092">Barry Andrews</name>
+      <id>229492</id>
+      <name id="229492">Andy Partridge</name>
+      <id>253195</id>
+      <name id="253195">Jonathan Perkins</name>
+      <id>276091</id>
+      <name id="276091">Dave Gregory</name>
+      <id>316129</id>
+      <name id="316129">Terry Chambers</name>
+      <id>316130</id>
+      <name id="316130">Colin Moulding</name>
+      <id>3382052</id>
+      <name id="3382052">Steve Hutchins</name>
+    </members>
+  </artist>
+  <artist>
+    <images>
+      <image type="secondary" uri="" uri150="" width="288" height="366"/>
+    </images>
+    <id>316130</id>
+    <name>Colin Moulding</name>
+    <realname>Colin Ivor Moulding </realname>
+    <profile>Born 17th August 1955 in Gorse Hill, Swindon. In 1970 Colin got a secondhand Bass Guitar from Kempsters. Formed [a=Star Park] with [a=Terry Chambers] and [a=Andy Partridge] in 1972. The band played their first gig, supporting [a=Thin Lizzy] at the Swindon College in May 1973. Changed their name from Helium Kidz to [a=XTC] around 1974.</profile>
+    <data_quality>Needs Vote</data_quality>
+    <urls>
+      <url>https://en.wikipedia.org/wiki/Colin_Moulding</url>
+    </urls>
+    <namevariations>
+      <name>C Moulding</name>
+      <name>C. Mouldina</name>
+      <name>C. Moulding</name>
+      <name>C.Moulding</name>
+      <name>CM</name>
+      <name>Colin</name>
+      <name>Colin Ivor Moulding</name>
+      <name>Colin Moulding XTC</name>
+      <name>Colin/Moulding</name>
+      <name>Collin/Moulding</name>
+      <name>Moulding</name>
+      <name>Vera and Charlie's son</name>
+      <name>&#x30B3;&#x30EA;&#x30F3;&#x30FB;&#x30E0;&#x30FC;&#x30EB;&#x30C7;&#x30A3;&#x30F3;&#x30B0;</name>
+    </namevariations>
+    <aliases>
+      <name id="477907">The Red Curtain</name>
+      <name id="1389341">The Colonel (7)</name>
+      <name id="2716891">Terry (32)</name>
+    </aliases>
+    <groups>
+      <name id="15118">XTC</name>
+      <name id="163843">The Three Wise Men</name>
+      <name id="257163">The Dukes Of Stratosphear</name>
+      <name id="973257">Terry &amp; The Lovemen</name>
+      <name id="2932706">Star Park</name>
+      <name id="6953864">TC&amp;I</name>
+    </groups>
+  </artist>
+  <artist>
+    <images>
+      <image type="secondary" uri="" uri150="" width="300" height="333"/>
+      <image type="secondary" uri="" uri150="" width="300" height="282"/>
+    </images>
+    <id>229492</id>
+    <name>Andy Partridge</name>
+    <realname>Andrew John Partridge</realname>
+    <profile>Andy Partridge (born 11 November 1953, Mtarfa, Malta) is an English singer, songwriter, guitarist, keyboardist, harmonica player and record producer who co-founded the rock band [a15118]. He founded the label [l42117], initially to publish a wealth of XTC demos in the "Fuzzy Warbles" collection. Longtime partner of [a716279].&#xD;
+</profile>
+    <data_quality>Correct</data_quality>
+    <urls>
+      <url>https://en.wikipedia.org/wiki/Andy_Partridge</url>
+      <url>https://repertoire.bmi.com/Search/Catalog?num=bitTYSair0kfr3lKQdamuQ%253d%253d&amp;cae=YE22CSZPTRGYZkHGLy3rQg%253d%253d&amp;partType=WriterList&amp;search=%7B%22Main_Search_Text%22%3A%22Dear%20God%22%2C%22Sub_Search_Text%22%3A%22%22%2C%22Main_Search%22%3A%22Catalog%22%2C%22Sub_Search%22%3Anull%2C%22Search_Type%22%3A%22all%22%2C%22View_Count%22%3A20%2C%22Page_Number%22%3A1%2C%22Part_Type%22%3A%22WriterList%22%2C%22Part_Id%22%3A%22bitTYSair0kfr3lKQdamuQ%253d%253d%22%2C%22Part_Id_Sub%22%3Anull%2C%22Part_Name%22%3Anull%2C%22Part_Cae%22%3Anull%2C%22Original_Search%22%3A%22Title%22%2C%22DisclaimerViewed%22%3Anull%7D&amp;resetPageNumber=True&amp;partIdSub=kJU0oBsMXpxafbSwXsKwYQ%253d%253d</url>
+    </urls>
+    <namevariations>
+      <name>(Partridge)</name>
+      <name>A Partridge</name>
+      <name>A.  Partridge</name>
+      <name>A. J. Partridge</name>
+      <name>A. P.</name>
+      <name>A. Partidge</name>
+      <name>A. Partridge</name>
+      <name>A. Partridige</name>
+      <name>A.J. Partridge</name>
+      <name>A.P</name>
+      <name>A.P.</name>
+      <name>A.Partridge</name>
+      <name>A.Patridge</name>
+      <name>AP</name>
+      <name>Al Partridge</name>
+      <name>An. Partridge</name>
+      <name>Andrew Partridge</name>
+      <name>Andy</name>
+      <name>Andy Partidge</name>
+      <name>Andy Partrdige</name>
+      <name>Andy Patridge</name>
+      <name>J.Partridge</name>
+      <name>Kasper/Melchior/Balthasar</name>
+      <name>Mr. Partridge</name>
+      <name>Partidge</name>
+      <name>Partridge</name>
+      <name>Patridge</name>
+      <name>Vera and John's son</name>
+      <name>&#x30A2;&#x30F3;&#x30C7;&#x30A3;&#x30FB;&#x30D1;&#x30FC;&#x30C8;&#x30EA;&#x30C3;&#x30B8;</name>
+      <name>&#x30A2;&#x30F3;&#x30C7;&#x30A3;&#x30FC;&#x30D1;&#x30FC;&#x30C8;&#x30EA;&#x30C3;&#x30B8;</name>
+    </namevariations>
+    <aliases>
+      <name id="295359">Animal Jesus</name>
+      <name id="477905">Sir John Johns</name>
+      <name id="491689">Sandy Sandwich</name>
+      <name id="2716890">Terry (31)</name>
+    </aliases>
+    <groups>
+      <name id="15118">XTC</name>
+      <name id="163843">The Three Wise Men</name>
+      <name id="257163">The Dukes Of Stratosphear</name>
+      <name id="794993">Monstrance</name>
+      <name id="973257">Terry &amp; The Lovemen</name>
+      <name id="2320286">Colin's Hermits</name>
+      <name id="2932706">Star Park</name>
+      <name id="13184955">The 3 Clubmen</name>
+    </groups>
+  </artist>
+</artists>

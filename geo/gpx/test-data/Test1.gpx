@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gpx 
+  creator="Gorilla"
+  version="1.1" 
+  xmlns="http://www.topografix.com/GPX/1/1" >
+
+  <metadata>
+    <time>2015-12-31T17:47:46Z</time>
+    <bounds maxlat="41.493446314707398" maxlon="-73.942153500393033" minlat="41.426695352420211" minlon="-73.970418618991971" />
+  </metadata>
+
+  <wpt lat="41.48132742382586" lon="-73.944610571488738">
+    <ele>490.634765625</ele>
+    <time>2015-12-31T17:43:04Z</time>
+    <name>0015</name>
+    <cmt>31-DEC-15 7:27:38</cmt>
+    <desc>31-DEC-15 7:27:38</desc>
+    <type>user</type>
+  </wpt>
+
+  <trk>
+    <name>Track 1</name>
+    <trkseg>
+      <trkpt lat="41.493350844830275" lon="-73.960224380716681">
+        <ele>40.993408203125</ele>
+        <time>2015-12-31T10:52:58Z</time>
+      </trkpt>
+      <trkpt lat="41.493446314707398" lon="-73.96009923890233">
+        <ele>65.507080078125</ele>
+        <time>2015-12-31T10:53:57Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
